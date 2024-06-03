@@ -2,7 +2,7 @@
 
 \alias{specificity}
 
-\title{specificity Calculation From a 2x2 Table}
+\title{Specificity Calculation From a 2x2 Table}
 
 \description{Calculates diagnostic test specificity and 95 percent confidence intervals for data from a 2x2 table}
 

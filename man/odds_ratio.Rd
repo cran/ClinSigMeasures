@@ -31,7 +31,7 @@ Aging 2016;37:147-153.
 
 \examples{
 
-# From Table 1 in Mufson et al (2016), using data for gender (Male/Female)
+# From Table 1 in Mufson et al (2016), using data for sex (Male/Female)
 #and Braak stage group classification (I-II/III-V).
 
 #Female/Braak III-V = 46, Female/Braak I-II = 14, Male/Braak III-V = 32,
