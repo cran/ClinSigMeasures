@@ -1,4 +1,4 @@
-6ea4bc8885f155fa77431ac74742cdaa *DESCRIPTION
+0dda90eb30b8d027c17110567fd89e28 *DESCRIPTION
 ca36e6fc5841856e2ffeafaffd72be69 *NAMESPACE
 319c2464cd1149414c7e1c9c5916a211 *R/cohens_d.R
 3ba2ed6d8fbd81bf88bb6b8e02d2f4db *R/cohens_q.R
@@ -13,8 +13,8 @@ ab7aca8e6d65f7fac57a7ab65867e92e *R/partial_eta_sq.R
 74a667d71ba416898ae05330126f45d9 *R/ppv.R
 e8d405ccc0830089d816235ee40d482b *R/psi.R
 428eac929166d618c25c86af518e7c41 *R/robust_effect_size.R
-25ffc6eedea36be52b4253a863e131f1 *R/sensitivity.R
-f90f364702112e4af43f94e23807e4fc *R/specificity.R
+5eaf1f3ae4c76401594af99dc64dbcbe *R/sensitivity.R
+c332899ba7de458d3cf9c9ba4932c666 *R/specificity.R
 b63fc6ad81cee6ff96515423e1fc5b22 *R/youden_index.R
 b7377988db8eab8ff65d78386c11da8d *man/cohens_d.Rd
 4efd2256baade68245143fb94bfdf273 *man/cohens_q.Rd

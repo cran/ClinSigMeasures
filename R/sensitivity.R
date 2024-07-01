@@ -1,7 +1,7 @@
 #' @export
 sensitivity<-function(Cell1, Cell2, Cell3, Cell4){
-  Prev<-(Cell1+Cell4)
-  Prev0<-(Cell2+Cell3)
+  Prev<-(Cell1+Cell3)
+  Prev0<-(Cell2+Cell4)
   Sens<-(Cell1/Prev)
   SESens<-1.96*sqrt((Sens*(1-Sens))/Prev)
   SensLower95<-(Sens-SESens)
