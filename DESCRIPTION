@@ -1,14 +1,30 @@
 Package: ClinSigMeasures
 Type: Package
 Title: Clinical Significance Measures
-Version: 1.2
-Author: Mike Malek-Ahmadi <michael.malekahmadi@bannerhealth.com>, Kjera Schack <kgschack@asu.edu>
-Maintainer: Mike Malek-Ahmadi <michael.malekahmadi@bannerhealth.com>
-Description: Provides measures of effect sizes for summarized continuous variables as well as diagnostic accuracy statistics for 2x2 table data. Includes functions for Cohen's d, robust effect size, Cohen's q, partial eta-squared, coefficient of variation, odds ratio, likelihood ratios, sensitivity, specificity, positive and negative predictive values, Youden index, number needed to treat, number needed to diagnose, and predictive summary index.
+Version: 1.3
+Authors@R: c(
+    person(given = "Mike",
+           family = "Malek-Ahmadi",
+           email = "michael.malekahmadi@bannerhealth.com",
+           role = c("aut", "cre")),
+    person(given = "Kjera",
+           family = "Schack",
+           email = "kgschack@asu.edu",
+           role = c("aut")))
+Description: Provides measures of effect sizes for summarized continuous
+    variables as well as diagnostic accuracy statistics for 2x2 table data.
+    Includes functions for Cohen's d, robust effect size, Cohen's q,
+    partial eta-squared, coefficient of variation, odds ratio, likelihood
+    ratios, sensitivity, specificity, positive and negative predictive
+    values, Youden index, number needed to treat, number needed to diagnose,
+    and predictive summary index.
 License: GPL-3
 Encoding: UTF-8
-RoxygenNote: 7.3.1
+Config/roxygen2/version: 8.1.0
 NeedsCompilation: no
-Packaged: 2024-07-01 07:12:25 UTC; mikem
+Packaged: 2026-09-30 22:37:41 UTC; mikem
+Author: Mike Malek-Ahmadi [aut, cre],
+  Kjera Schack [aut]
+Maintainer: Mike Malek-Ahmadi <michael.malekahmadi@bannerhealth.com>
 Repository: CRAN
-Date/Publication: 2024-07-01 07:30:01 UTC
+Date/Publication: 2026-10-01 00:40:09 UTC
